@@ -3,6 +3,9 @@
 
 ### topic 2: Video Game sale data
 
+## GOALS:
+In this project, I want to explore the performances and ratings and interactions of various real life factors that influence the performance of a game in the eyes of a critical audience versus their performance in the market. 
+
 1. How have global video game sales shifted across regions (NA, EU, JP, Other) over time?
 
     Reason: Reveals market expansion/contraction and shifting consumer bases (e.g., rise of Asia, decline of Japan’s relative share).
@@ -35,3 +38,8 @@
 8. Are there “hidden gems” – games with high critic scores but very low global sales? Which developers create consistently high-quality niche titles?
 
     Reason: For investors or publishers looking for acquisition targets or underserved markets.
+
+## DATA:
+Video Game data was grabbed from a Kaggle Dataset: https://www.kaggle.com/datasets/ibriiee/video-games-sales-dataset-2022-updated-extra-feat
+
+## ANALYSIS / CONCLUSIONS
